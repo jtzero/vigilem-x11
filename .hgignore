@@ -1,0 +1,3 @@
+syntax: glob
+Gemfile.lock
+pkg/vigilem-x11-*.gem
